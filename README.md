@@ -1,2 +1,1 @@
-# todo
-To-Do List
+python todo.py
